@@ -8,19 +8,28 @@ Antrieb:
   Schalthebel:
 
 Bremse:
-  Bremshebel:
-    - BL-R780: https://www.bike-components.de/de/Shimano/BL-R780-Bremsgriffe-p35317/?o=1000106317-silber-links-rechts-seitenspezifisch-
-      comment: "Set silber links rechts und Leitungen, geht für Cantis und V-Brakes"
-    - BL-MX70: https://www.bike-mailorder.com/products/shimano-dxr-v-brake-remhendel-bl-mx70
-      comment: "nicht verflügbar"
-    - Box-Thre: https://eu.sourcebmx.com/de/products/box-three-long-reach-v-point-race-brake-lever
-      comment: "Farbe!"
-  Bremssattel:
-    - BR-MX70: https://www.bike-mailorder.com/products/shimano-dxr-v-brake-bremse-br-mx70?variant=50586738884872
-      long-pull: true
-    - Box-Three: https://eu.sourcebmx.com/de/products/box-three-race-v-brakes?variant=54521992249670
-      long-pull: true
-
+  V-brakes:
+    long-pull:
+    Bremshebel:
+      - BL-R780: https://www.bike-components.de/de/Shimano/BL-R780-Bremsgriffe-p35317/?o=1000106317-silber-links-rechts-seitenspezifisch-
+        comment: "Set silber links rechts und Leitungen, geht für Cantis und V-Brakes"
+      - Box-Thre: https://eu.sourcebmx.com/de/products/box-three-long-reach-v-point-race-brake-lever
+        comment: "Farbe!"
+    Bremssattel:
+      - BR-MX70: https://www.bike-mailorder.com/products/shimano-dxr-v-brake-bremse-br-mx70?variant=50586738884872
+        comment: "hohe lesitung"
+      - Box-Three: https://eu.sourcebmx.com/de/products/box-three-race-v-brakes?variant=54521992249670
+        comment: "Farbe!"
+  Cantilever:
+    short-pull:
+    Bremshebel:
+      - Dia-Compe Tech3 MX121: https://www.bike-mailorder.com/products/dia-compe-tech3-mx121-bmx-bremshebel-einzeln-silber
+    Bremszangen:
+      - Dia-Compe DC980: https://www.bike-mailorder.com/products/dia-compe-dc980-cantilever-bremse-silber
+        comment: "großer hebel, knapp mit reife >2.0"
+    Hanger:
+      - Dia-Compe Brake Hanger: https://www.bike-mailorder.com/products/dia-compe-brake-hanger-gegenhalter-mit-einstellschraube?_pos=8&_psq=dia-compe&_ss=e&_v=1.0
+        comment: "für Cantilever, muss an Gabel"
 Anbau:
   Sattel:
   Sattelstütze:
