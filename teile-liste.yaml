@@ -1,0 +1,35 @@
+---
+Antrieb:
+  Schaltwerk:
+  Kurbel:
+  Innenlager:
+  Kette:
+  Kassette:
+  Schalthebel:
+
+Bremse:
+  Bremshebel:
+    - BL-R780: https://www.bike-components.de/de/Shimano/BL-R780-Bremsgriffe-p35317/?o=1000106317-silber-links-rechts-seitenspezifisch-
+      comment: "Set silber links rechts und Leitungen, geht für Cantis und V-Brakes"
+    - BL-MX70: https://www.bike-mailorder.com/products/shimano-dxr-v-brake-remhendel-bl-mx70
+      comment: "nicht verflügbar"
+    - Box-Thre: https://eu.sourcebmx.com/de/products/box-three-long-reach-v-point-race-brake-lever
+      comment: "Farbe!"
+  Bremssattel:
+    - BR-MX70: https://www.bike-mailorder.com/products/shimano-dxr-v-brake-bremse-br-mx70?variant=50586738884872
+      long-pull: true
+    - Box-Three: https://eu.sourcebmx.com/de/products/box-three-race-v-brakes?variant=54521992249670
+      long-pull: true
+
+Anbau:
+  Sattel:
+  Sattelstütze:
+  Vorbau:
+  Lenker:
+    - Fairadle MX4: https://www.tradeinn.com/bikeinn/en/fairdale-mx-4-rise-102-mm-handlebar/139664067/p
+      rise: 103mm
+      width: 711mm
+      back: 12°
+      up: 2°
+  Griffe:
+  Pedale:
