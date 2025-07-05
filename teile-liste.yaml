@@ -1,57 +1,76 @@
 ---
 Antrieb:
-  Schaltwerk:
-  Kurbel:
-  Innenlager:
-  Kette:
-  Kassette:
-  Schalthebel:
-
+  Schaltgruppe:
+    - Shimano DEORE M4100 1x10-fach Upgrade-Kit 11-46: https://www.bike-discount.de/de/shimano-deore-m4100-1x10-fach-upgrade-kit-11-46-1
+      comment: "sehr gutes Preis-Leistungs-Verhältnis, 10-fach, 11-46"
+      price: 67,99 EUR
+  Kurbel mit Innenlager:
+    - Shimano FC-MT510-1 12-fach Kurbel 34 Zähne: https://www.bike-discount.de/de/shimano-fc-mt510-1-12-fach-kurbel-34-zaehne-1
+      comment: "gute Qualität, 34 Zähne, 170mm"
+      price: 39,99 EUR
+  Schaltzugaussenhülle:
+    - Jagwire / YPK LEX Schaltzugaussenhülle: https://www.singlespeedshop.com/Singlespeed---Fixed-Gear/Bremsen---Zubehoer/Bremszuege---Zubehoer/jagwire-ypk-lex-schaltzugaussenhuelle.html
+      price: 6,95 EUR
+Laufrad:
+  Felgen und Naben:
+    - Alexrims DA19 Laufradsatz: 
+      comment: "Garagefund"
+      price: 0,00 EUR
+  Reifen:
+    - Billy Bonkers Performance 26x2,10" Addix Faltreifen: https://www.bike-discount.de/de/schwalbe-billy-bonkers-performance-26x2-10-addix-faltreifen-2
+      comment: "guter Reifen, leicht, Gravel geeignet"
+      price: 22,99 EUR
+  Schläuche:
+    - SV 13 A Light Schlauch für 26": https://www.bike-discount.de/de/schwalbe-sv-13-a-light-schlauch-fuer-26
+      comment: "etwas leichter"
+      price: 2,99 EUR
 Bremse:
-  V-brakes:
-    long-pull:
-    Bremshebel:
-      - BL-R780: https://www.bike-components.de/de/Shimano/BL-R780-Bremsgriffe-p35317/?o=1000106317-silber-links-rechts-seitenspezifisch-
-        comment: "Set silber links rechts und Leitungen, geht für Cantis und V-Brakes"
-      - Box-Three: https://eu.sourcebmx.com/de/products/box-three-long-reach-v-point-race-brake-lever
-        comment: "Farbe!"
-    Bremszangen:
-      - BR-MX70: https://www.bike-mailorder.com/products/shimano-dxr-v-brake-bremse-br-mx70?variant=50586738884872
-        comment: "hohe lesitung"
-      - Box-Three: https://eu.sourcebmx.com/de/products/box-three-race-v-brakes?variant=54521992249670
-        comment: "Farbe!"
   Cantilever:
-    short-pull:
     Bremshebel:
-      - Dia-Compe Tech3 MX121: https://www.bike-mailorder.com/products/dia-compe-tech3-mx121-bmx-bremshebel-einzeln-silber
+      - Dia-Compe MX-122 Levers: https://www.singlespeedshop.com/Oldschool-BMX/Bremsen-322/Dia-Compe-MX-122-Levers---Bremshebelpaar.html?language=de
+        comment: "sehr old School, leicht"
+        price: 22,95 EUR
     Bremszangen:
-      - Dia-Compe DC980: https://www.bike-mailorder.com/products/dia-compe-dc980-cantilever-bremse-silber
-        comment: "großer hebel, knapp mit reife >2.0"
+      - Dia Compe 987 Cantileverbremsen, VR+HR, inkl. Beläge usw, titan, NEU, OVP: https://www.ebay.de/itm/262695290495
+        Preis: 55,89 EUR
+        comment: "gute Leistung, leicht, aber teuer"
+    Bremsleitung:
+      - Bremskabelhülle: https://www.singlespeedshop.com/BMX/Bremskabel/bremskabelhuelle.html
+        price: 4,95 EUR
     Hanger:
       - Dia-Compe Brake Hanger: https://www.bike-mailorder.com/products/dia-compe-brake-hanger-gegenhalter-mit-einstellschraube?_pos=8&_psq=dia-compe&_ss=e&_v=1.0
         comment: "für Cantilever, muss an Gabel"
 Anbau:
   Sattel:
     Contec Classic Exclusiv Trekking Sattel: https://www.tradeinn.com/bikeinn/de/contec-classic-exclusiv-trekking-sattel/142274641/p
-  Sattelstütze:
-
+    comment: "sehr bequem, aber schwer"
+    price: 60,00 EUR
   Vorbau:
-    - Ergotec Cat 2 25.4/22.2 mm 230 mm Fahrradvorbau: https://www.tradeinn.com/bikeinn/de/ergotec-cat-2-25.4-22.2-mm-230-mm-fahrradvorbau/137491581/p
-    - by.schultz-adapter: https://www.rosebikes.de/byschulz-a-head-stem-quill-vorbau-schaft-adapter-2665754?sf=1
-    - RFR Vorbau Trail 31,8mm: https://www.bike-discount.de/de/rfr-vorbau-trail-31-8mm
-    - Ergotec High Pike: https://www.ergotec.de/de/produkte/vorbauten/sub/ahead-vorbau/produkt/high-pike-2-25-4.html
+    - Vorbau Adapter Set Quill 1" - 1 1/8": https://www.bike-discount.de/de/ergotec-vorbau-adapter-set-quill-1-1-1/8
+      comment: "für 1" Gabeln, um 1 1/8" Vorbau zu montieren"
+      price: 15,99 EUR
+    - BMX Vorbau KHE Frontloader Alu 50mm: https://www.khebikes.com/BMX-Vorbau-KHE-Frontloader-Alu-50mm/M404147
+      length: 50mm
+      angle: 0°
+      price: 18,95 EUR
   Lenker:
-    - Fairadle MX4: https://www.tradeinn.com/bikeinn/en/fairdale-mx-4-rise-102-mm-handlebar/139664067/p
+    - BMX Lenker KHE PRISM Alu 7,8 Zoll: https://www.khebikes.com/BMX-Lenker-KHE-PRISM-Alu-7-8-Zoll/6000-222-98
       rise: 103mm
       width: 711mm
       back: 12°
       up: 2°
       stem: 22.2mm
-    - Eclat Chocolate 25.4mm BMX Lenker: https://www.skatepro.de/370-25711.htm?stockcode=05033010418
-      rise: 229mm
-      width: 705mm
-      back: 10°
-      up: 1°
-      stem: 25.4mm
+      price: 27,95 EUR
   Griffe:
+    - Benno Griffe: https://www.bike-discount.de/de/benno-griffe-3
+      comment: "Garagefund, sehr bequem"
+      price: 0,00 EUR
   Pedale:
+    - Stamp 1 - 2 Gen. - Plattformpedale Small: https://www.bike-discount.de/de/crankbrothers-stamp-1-2-gen.-plattformpedale-3
+      price: 47,99 EUR
+      comment: "klein, leicht, lila"
+Rahmen:
+  - Longus Comp 2000 Rahmen: https://www.ebay.de/itm/226810795793
+    comment: "guter Zustand, Tange Stahl, inkl. Gabel und Sattelstütze"
+    price: 80,00 EUR
+    wight: 3,75kg
