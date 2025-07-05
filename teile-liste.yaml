@@ -15,7 +15,7 @@ Bremse:
         comment: "Set silber links rechts und Leitungen, geht für Cantis und V-Brakes"
       - Box-Three: https://eu.sourcebmx.com/de/products/box-three-long-reach-v-point-race-brake-lever
         comment: "Farbe!"
-    Bremssattel:
+    Bremszangen:
       - BR-MX70: https://www.bike-mailorder.com/products/shimano-dxr-v-brake-bremse-br-mx70?variant=50586738884872
         comment: "hohe lesitung"
       - Box-Three: https://eu.sourcebmx.com/de/products/box-three-race-v-brakes?variant=54521992249670
@@ -36,12 +36,22 @@ Anbau:
   Sattelstütze:
 
   Vorbau:
-    Ergotec Cat 2 25.4/22.2 mm 230 mm Fahrradvorbau: https://www.tradeinn.com/bikeinn/de/ergotec-cat-2-25.4-22.2-mm-230-mm-fahrradvorbau/137491581/p
+    - Ergotec Cat 2 25.4/22.2 mm 230 mm Fahrradvorbau: https://www.tradeinn.com/bikeinn/de/ergotec-cat-2-25.4-22.2-mm-230-mm-fahrradvorbau/137491581/p
+    - by.schultz-adapter: https://www.rosebikes.de/byschulz-a-head-stem-quill-vorbau-schaft-adapter-2665754?sf=1
+    - RFR Vorbau Trail 31,8mm: https://www.bike-discount.de/de/rfr-vorbau-trail-31-8mm
+    - Ergotec High Pike: https://www.ergotec.de/de/produkte/vorbauten/sub/ahead-vorbau/produkt/high-pike-2-25-4.html
   Lenker:
     - Fairadle MX4: https://www.tradeinn.com/bikeinn/en/fairdale-mx-4-rise-102-mm-handlebar/139664067/p
       rise: 103mm
       width: 711mm
       back: 12°
       up: 2°
+      stem: 22.2mm
+    - Eclat Chocolate 25.4mm BMX Lenker: https://www.skatepro.de/370-25711.htm?stockcode=05033010418
+      rise: 229mm
+      width: 705mm
+      back: 10°
+      up: 1°
+      stem: 25.4mm
   Griffe:
   Pedale:
