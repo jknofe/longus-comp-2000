@@ -4,55 +4,91 @@ Antrieb:
     - Shimano DEORE M4100 1x10-fach Upgrade-Kit 11-46: https://www.bike-discount.de/de/shimano-deore-m4100-1x10-fach-upgrade-kit-11-46-1
       comment: "sehr gutes Preis-Leistungs-Verhältnis, 10-fach, 11-46"
       price: 67,99 EUR
+      parts:
+        - Shimano DEORE SL-M4100 10-fach Schalthebel rechts (ohne Ganganzeige): https://www.bike-discount.de/de/shimano-deore-sl-m4100-10-fach-schalthebel-rechts
+          weight: 205g
+        - Shimano DEORE RD-M5120 10-fach Schaltwerk SGS: https://www.bike-discount.de/de/shimano-deore-rd-m5120-shadow-plus-schaltwerk-10-fach
+          weight: 331g
+        - Shimano DEORE CS-M4100 10-fach Kassette 11-46: https://www.bike-discount.de/de/shimano-deore-cs-m4100-10-fach-kassette-11-46
+          weight: 524g
+        - Shimano CN-HG54 10-fach Kette 116 Glieder: https://www.bike-discount.de/de/shimano-cn-hg54-10-fach-kette
+          weight: 273g
+        # Gesamtgewicht Upgrade-Kit:
+        # 1.333g (1,33 kg)
   Kurbel mit Innenlager:
     - Shimano FC-MT510-1 12-fach Kurbel 34 Zähne: https://www.bike-discount.de/de/shimano-fc-mt510-1-12-fach-kurbel-34-zaehne-1
       comment: "gute Qualität, 34 Zähne, 170mm"
       price: 39,99 EUR
+      parts:
+        - Shimano FC-MT510-1 12-fach Kurbel 34Z (ohne Verpackung):
+          weight: 753g
+        - Shimano SM-BB52 Hollowtech II Innenlager 68/73 mm:
+          weight: 90g
   Schaltzugaussenhülle:
     - Jagwire / YPK LEX Schaltzugaussenhülle: https://www.singlespeedshop.com/Singlespeed---Fixed-Gear/Bremsen---Zubehoer/Bremszuege---Zubehoer/jagwire-ypk-lex-schaltzugaussenhuelle.html
       price: 6,95 EUR
-Laufrad:
+      weight: 110g
+Laufradsatz:
   Felgen und Naben:
     - Alexrims DA19 Laufradsatz: 
       comment: "Garagefund"
       price: 0,00 EUR
+      weight: 2050g
   Reifen:
-    - Billy Bonkers Performance 26x2,10" Addix Faltreifen: https://www.bike-discount.de/de/schwalbe-billy-bonkers-performance-26x2-10-addix-faltreifen-2
-      comment: "guter Reifen, leicht, Gravel geeignet"
-      price: 22,99 EUR
-  Schläuche:
-    - SV 13 A Light Schlauch für 26": https://www.bike-discount.de/de/schwalbe-sv-13-a-light-schlauch-fuer-26
-      comment: "etwas leichter"
-      price: 2,99 EUR
+    Vorderrad:
+      - Billy Bonkers Performance 26x2,10" Addix Faltreifen: https://www.bike-discount.de/de/schwalbe-billy-bonkers-performance-26x2-10-addix-faltreifen-2
+        comment: "guter Reifen, leicht, Gravel geeignet"
+        price: 22,99 EUR
+        weight: 490g
+      - SV 13 A Light Schlauch für 26": https://www.bike-discount.de/de/schwalbe-sv-13-a-light-schlauch-fuer-26
+        comment: "etwas leichter"
+        price: 2,99 EUR
+        weight: 180g
+    Hinterrad:
+      - Billy Bonkers Performance 26x2,10" Addix Faltreifen: https://www.bike-discount.de/de/schwalbe-billy-bonkers-performance-26x2-10-addix-faltreifen-2
+        comment: "guter Reifen, leicht, Gravel geeignet"
+        price: 22,99 EUR
+        weight: 490g
+      - SV 13 A Light Schlauch für 26": https://www.bike-discount.de/de/schwalbe-sv-13-a-light-schlauch-fuer-26
+        comment: "etwas leichter"
+        price: 2,99 EUR
+        weight: 180g
 Bremse:
   Cantilever:
     Bremshebel:
-      - Dia-Compe MX-122 Levers: https://www.singlespeedshop.com/Oldschool-BMX/Bremsen-322/Dia-Compe-MX-122-Levers---Bremshebelpaar.html?language=de
+      - Dia-Compe MX-122 Levers (Paar): https://www.singlespeedshop.com/Oldschool-BMX/Bremsen-322/Dia-Compe-MX-122-Levers---Bremshebelpaar.html?language=de
         comment: "sehr old School, leicht"
         price: 22,95 EUR
+        weight: 89g
     Bremszangen:
       - Dia Compe 987 Cantileverbremsen, VR+HR, inkl. Beläge usw, titan, NEU, OVP: https://www.ebay.de/itm/262695290495
         Preis: 55,89 EUR
         comment: "gute Leistung, leicht, aber teuer"
+        weight: 368g
     Bremsleitung:
       - Bremskabelhülle: https://www.singlespeedshop.com/BMX/Bremskabel/bremskabelhuelle.html
         price: 4,95 EUR
+        weight: 100g
     Hanger:
       - Dia-Compe Brake Hanger: https://www.bike-mailorder.com/products/dia-compe-brake-hanger-gegenhalter-mit-einstellschraube?_pos=8&_psq=dia-compe&_ss=e&_v=1.0
         comment: "für Cantilever, muss an Gabel"
+        weight: 30g
 Anbau:
   Sattel:
     Contec Classic Exclusiv Trekking Sattel: https://www.tradeinn.com/bikeinn/de/contec-classic-exclusiv-trekking-sattel/142274641/p
     comment: "sehr bequem, aber schwer"
     price: 60,00 EUR
+    weight: 912g
   Vorbau:
     - Vorbau Adapter Set Quill 1" - 1 1/8": https://www.bike-discount.de/de/ergotec-vorbau-adapter-set-quill-1-1-1/8
-      comment: "für 1" Gabeln, um 1 1/8" Vorbau zu montieren"
+      comment: "für 1\" Gabeln, um 1 1/8\" Vorbau zu montieren"
       price: 15,99 EUR
+      weight: 185g
     - BMX Vorbau KHE Frontloader Alu 50mm: https://www.khebikes.com/BMX-Vorbau-KHE-Frontloader-Alu-50mm/M404147
       length: 50mm
       angle: 0°
       price: 18,95 EUR
+      weight: 232g
   Lenker:
     - BMX Lenker KHE PRISM Alu 7,8 Zoll: https://www.khebikes.com/BMX-Lenker-KHE-PRISM-Alu-7-8-Zoll/6000-222-98
       rise: 103mm
@@ -61,16 +97,19 @@ Anbau:
       up: 2°
       stem: 22.2mm
       price: 27,95 EUR
+      weight: 440g
   Griffe:
     - Benno Griffe: https://www.bike-discount.de/de/benno-griffe-3
       comment: "Garagefund, sehr bequem"
       price: 0,00 EUR
+      weight: 220g
   Pedale:
     - Stamp 1 - 2 Gen. - Plattformpedale Small: https://www.bike-discount.de/de/crankbrothers-stamp-1-2-gen.-plattformpedale-3
       price: 47,99 EUR
       comment: "klein, leicht, lila"
-Rahmen:
+      weight: 321g
+Rahmen/Gabel/Sattelstütze:
   - Longus Comp 2000 Rahmen: https://www.ebay.de/itm/226810795793
     comment: "guter Zustand, Tange Stahl, inkl. Gabel und Sattelstütze"
     price: 80,00 EUR
-    wight: 3,75kg
+    wight: 3750g
